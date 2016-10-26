@@ -1,0 +1,56 @@
+/** ========================
+============================
+@project    : Amil
+@version    : 1.0
+@author     : Thiago Aguiar - thiago.aguiar86@gmail.com
+@copyright  : 2016
+============================
+@begin
+=========================**/
+
+@media screen and (max-width: 767px) {
+	body {
+		display: none;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+	body {
+		section {
+			max-width: 768px;
+		}
+		.partner {
+			nav {
+				ul {
+					margin: 15px 35px 0 0;
+				}
+			}
+			.brand {
+				nav {
+					ul {
+						li {
+							width: 90px;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media screen and (min-width: 992px) {
+	body {
+		section {
+			max-width: 960px;
+		}
+	}
+}
+
+/**====================
+@retina-sprite
+=======================**/
+@media screen (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+	body {}
+}
+
+/** ========================
+@end
+=========================**/
