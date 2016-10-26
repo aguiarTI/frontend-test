@@ -11,6 +11,6 @@ Dentro de cada pasta (test-1 e test-2) existe um arquivo index.php. Abra os arqu
 	Tecnologias utilizadas: HTML5, CSS3, Zepto, Grunt, LESS
 
 - Teste 2:
-	Tecnologias utilizadas: Bootstrap, jQuery, AngularJS
+	Tecnologias utilizadas: Bootstrap, Javascript, jQuery, AngularJS
 
 	Não é necessário configurar ou instalar o node_modules.
