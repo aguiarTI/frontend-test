@@ -8,7 +8,7 @@ Dentro de cada pasta (test-1 e test-2) existe um arquivo index.php. Abra os arqu
 
 ### Observações Técnicas
 - Teste 1: 
-	Tecnologias utilizadas: HTML5, CSS3, Zepto, Grunt, LESS
+	Tecnologias utilizadas: HTML5, CSS3, Swiper, Zepto, Grunt, LESS
 
 - Teste 2:
 	Tecnologias utilizadas: Bootstrap, Javascript, jQuery, AngularJS
